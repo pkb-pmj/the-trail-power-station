@@ -19,6 +19,6 @@ A mobile power station.
 Bigger power stations like Ecoflow, but in a form factor that can fit inside a backpack.
 
 ### Sketches (or a 3D model)
-![Power station 1](../assets/power-station-1.png)
-![Power station 2](../assets/power-station-2.png)
-![Power station 3](../assets/power-station-3.png)
+![Power station 1](/assets/power-station-1.png)
+![Power station 2](/assets/power-station-2.png)
+![Power station 3](/assets/power-station-3.png)
